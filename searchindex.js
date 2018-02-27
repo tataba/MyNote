@@ -1,0 +1,1 @@
+Search.setIndex({docnames:["helloworld","index"],envversion:53,filenames:["helloworld.rst","index.rst"],objects:{},objnames:{},objtypes:{},terms:{hello:0,index:1,modul:1,page:1,search:1,world:0},titles:["&lt;no title&gt;","Welcome to mynote's documentation!"],titleterms:{document:1,indic:1,mynot:1,tabl:1,welcom:1}})
